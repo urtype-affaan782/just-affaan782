@@ -1,4 +1,3 @@
-Here's a personalized README template for you, tailored to your background and interests:
 
 ---
 
