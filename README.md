@@ -22,7 +22,7 @@ I'm a 14-year-old student at Hamdard School, aspiring to become a **Software Eng
 
 ### 🏆 Achievements  
 - Participated in the **Bot Battle Competition** at Jaipurya School, Ghaziabad.  
-- Innovated and presented in the **ATL Marathon** under the name 'Spectra Drive.'
+- Innovated and presented in the **ATL Marathon** under the name 'EagleEye Surviellence.'
 
 ### 🌱 Interests  
 - Programming and AI Development.  
