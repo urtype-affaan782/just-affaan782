@@ -29,8 +29,7 @@ I'm a 14-year-old student at Hamdard School, aspiring to become a **Software Eng
 - Designing virtual assistants like **Friday** and **AffaanGPT**.
 
 ### Code language ⛏️
-- Python![image](https://github.com/user-attachments/assets/f5f4a79c-33bd-4d85-86ba-d3f01880bffd)
-
+- Python
 - HTML
 - CSS
 - JavaScript
