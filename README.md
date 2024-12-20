@@ -33,6 +33,7 @@ I'm a 14-year-old student at Hamdard School, aspiring to become a **Software Eng
 - HTML
 - CSS
 - JavaScript
+- Ardiuno
 
 ### Tools ⚒️
 - VScode
