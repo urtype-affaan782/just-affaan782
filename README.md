@@ -37,8 +37,9 @@ I'm a 14-year-old student at Hamdard School, aspiring to become a **Software Eng
 
 ### Tools ⚒️
 - VScode
+- Replit
 ### 📫 Let's Connect  
-- **GitHub**: [IamAffaanNadeem](https://github.com/IamAffaanNadeem)
+- **GitHub**: [AkiraAkatsukiKodo782](https://github.com/AkiraAkatsukiKodo782)
 
 ---
 
