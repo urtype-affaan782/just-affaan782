@@ -39,7 +39,7 @@ I'm a 14-year-old student at Hamdard School, aspiring to become a **Software Eng
 - VScode
 - Replit
 ### 📫 Let's Connect  
-- **GitHub**: [AkiraAkatsukiKodo782](https://github.com/AkiraAkatsukiKodo782)
+- **GitHub**: [itz-affaan782](https://github.com/itz-affaan782)
 
 ---
 
