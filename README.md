@@ -38,6 +38,10 @@ I'm a 14-year-old student at Hamdard School, aspiring to become a **ATL, AI, ML 
 ### Tools ⚒️
 - VScode
 - Replit
+- Python IDE
+- Arduino IDE
+- Windows Terminal
+  
 ### 📫 Let's Connect  
 - **GitHub**: [itz-affaan782](https://github.com/just-affaan782)
 
