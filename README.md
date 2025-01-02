@@ -4,7 +4,7 @@
 # Hi, I'm Affaan Nadeem! 👋  
 
 ### 🌟 About Me  
-I'm a 14-year-old student at Hamdard School, aspiring to become a **Software Engineer** and **Web Devloper**. My journey in tech began with a passion for coding and innovation, and I’ve been exploring creative ways to merge imagination with technology.
+I'm a 14-year-old student at Hamdard School, aspiring to become a **ATL, AI, ML and Robotics Engineer** and **Frontend Devloper**. My journey in tech began with a passion for coding and innovation, and I’ve been exploring creative ways to merge imagination with technology.
 
 ### 🚀 Projects  
 - **SpectraDrive**: Autonomous vehicle project.  
