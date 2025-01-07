@@ -43,7 +43,7 @@ I'm a 14-year-old student at Hamdard School, aspiring to become a **ATL, AI, ML 
 - Windows Terminal
   
 ### 📫 Let's Connect  
-- **GitHub**: [itz-affaan782](https://github.com/just-affaan782)
+- **GitHub**: [urtype-affaan782](https://github.com/urtype-affaan782)
 
 ---
 
